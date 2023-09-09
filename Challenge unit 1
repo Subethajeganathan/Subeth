@@ -1,0 +1,25 @@
+print("finding factorial of a number")
+print("******")
+n=int(input("enter the number of find the factorial :"))
+def fact(k):
+  if k==0. or k==1print("finding factorial of a number")
+print("******")
+n=int(input("enter the number of find the factorial :"))
+def fact(k):
+  if k==0. or k==1:
+   return 1
+  elif(k>1):
+   return k*fact (k-1)
+  else:
+   return 0
+print("the factorial of number is :",fact(n))
+
+  :
+   return 1
+  elif(k>1):
+   return k*fact (k-1)
+  else:
+   return 0
+print("the factorial of number is :",fact(n))
+
+  
